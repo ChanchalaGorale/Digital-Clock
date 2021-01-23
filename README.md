@@ -1,2 +1,8 @@
-# Digital-Clock
-Digital clock to see latest time
+# Digital Clock
+
+View local time using digital clock
+
+### Run App
+
+- npm install
+- npm start
