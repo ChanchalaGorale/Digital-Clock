@@ -17,7 +17,8 @@ h1 {
 }
 .timer {
   text-align: center;
-  background-color: aquamarine;
+  background-color: #277da1;
+  color: white;
   font-family: monospace;
   font-size: 8em;
   padding-top: 0.8em;
