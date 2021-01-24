@@ -6,3 +6,5 @@ View local time using digital clock
 
 - npm install
 - npm start
+
+![digital clock](digi.png)
